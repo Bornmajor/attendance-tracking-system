@@ -7,7 +7,7 @@
 
 ## Technologies
 1. Backend -> Php
-2. Frontend -> HTML,CSS, JS , BOOTSTRAP
+2. Frontend -> Html,Css, Js , Bootstrap
 
 ## Screenshots
 <img  src="https://github.com/Bornmajor/attendance-tracking-system/assets/98744068/4629d9ff-3535-4481-aaa2-f932dbee7c9c" width="800px" />
